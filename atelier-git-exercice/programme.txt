@@ -1,9 +1,7 @@
 ```text
+```text
 Atelier Git
 Accueil : 09:00
 Fin : 12:00
-```
-
-```text
 Pause : 10:30
 ```
